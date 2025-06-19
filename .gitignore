@@ -6,11 +6,22 @@ __pycache__/
 # C extensions
 *.so
 
+# Image extensions
+*.png
+*.jpg
+*.jpeg
+
+# Extra files
+*.xml
+*.pickle
+
 # Distribution / packaging
 .Python
 build/
 develop-eggs/
 dist/
+# DATA
+# datas
 downloads/
 eggs/
 .eggs/
