@@ -1,0 +1,24 @@
+/* 
+body{
+  margin: 0;
+  background-color: darkgray;
+  text-align: center;
+  overflow: hidden;
+}
+
+#mycanvas {
+  background-color: lightgray;
+  border: 1px solid black;
+  display: block;
+  margin: auto;
+} */
+
+body{
+  margin:0;
+  background:darkgray;
+  overflow:hidden;
+  text-align:center;
+}
+#myCanvas{
+  background:lightgray;
+}
