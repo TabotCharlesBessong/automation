@@ -6,14 +6,17 @@ __pycache__/
 # C extensions
 *.so
 
-# Image extensions
+# Image and videos extensions
 *.png
 *.jpg
 *.jpeg
+*.mp4
+*.gif
 
 # Extra files
 *.xml
 *.pickle
+*.txt
 
 # Distribution / packaging
 .Python
